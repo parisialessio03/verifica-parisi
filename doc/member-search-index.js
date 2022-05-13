@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Parisi_Alessio_class","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Parisi_Alessio_class","l":"Parisi_Alessio_class()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Parisi_Alessio_class","l":"ParisiMet(int, int, int)","u":"ParisiMet(int,int,int)"}];updateSearchResults();
